@@ -1,0 +1,38 @@
+﻿生成启动时间为 2013-12-29 12:04:56。
+     1>项目“C:\Documents and Settings\Administrator\桌面\PJ1_zym\PJ1_zym\PJ1_zym.vcxproj”在节点 2 上(build 个目标)。
+     1>PrepareForBuild:
+         正在创建目录“C:\Documents and Settings\Administrator\桌面\PJ1_zym\Release\”。
+       InitializeBuildStatus:
+         正在创建“Release\PJ1_zym.unsuccessfulbuild”，因为已指定“AlwaysCreate”。
+       ClCompile:
+         D:\Program Files\Microsoft Visual Studio 10.0\VC\bin\CL.exe /c /Zi /nologo /W3 /WX- /O2 /Oi /Oy- /GL /D WIN32 /D NDEBUG /D _CONSOLE /D _UNICODE /D UNICODE /Gm- /EHsc /MD /GS /Gy /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Release\\" /Fd"Release\vc100.pdb" /Gd /TP /analyze- /errorReport:prompt PJ1_zym.cpp
+         PJ1_zym.cpp
+     1>PJ1_zym.cpp(95): warning C4996: 'freopen': This function or variable may be unsafe. Consider using freopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 D:\Program Files\Microsoft Visual Studio 10.0\VC\include\stdio.h(249) : 参见“freopen”的声明
+     1>PJ1_zym.cpp(96): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 D:\Program Files\Microsoft Visual Studio 10.0\VC\include\stdio.h(304) : 参见“scanf”的声明
+     1>PJ1_zym.cpp(98): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 D:\Program Files\Microsoft Visual Studio 10.0\VC\include\stdio.h(304) : 参见“scanf”的声明
+     1>PJ1_zym.cpp(131): warning C4996: 'freopen': This function or variable may be unsafe. Consider using freopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 D:\Program Files\Microsoft Visual Studio 10.0\VC\include\stdio.h(249) : 参见“freopen”的声明
+     1>PJ1_zym.cpp(132): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 D:\Program Files\Microsoft Visual Studio 10.0\VC\include\stdio.h(304) : 参见“scanf”的声明
+     1>PJ1_zym.cpp(134): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 D:\Program Files\Microsoft Visual Studio 10.0\VC\include\stdio.h(304) : 参见“scanf”的声明
+     1>PJ1_zym.cpp(194): warning C4996: 'freopen': This function or variable may be unsafe. Consider using freopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 D:\Program Files\Microsoft Visual Studio 10.0\VC\include\stdio.h(249) : 参见“freopen”的声明
+       Link:
+         D:\Program Files\Microsoft Visual Studio 10.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"C:\Documents and Settings\Administrator\桌面\PJ1_zym\Release\PJ1_zym.exe" /INCREMENTAL:NO /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /ManifestFile:"Release\PJ1_zym.exe.intermediate.manifest" /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /DEBUG /PDB:"C:\Documents and Settings\Administrator\桌面\PJ1_zym\Release\PJ1_zym.pdb" /SUBSYSTEM:CONSOLE /OPT:REF /OPT:ICF /LTCG /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"C:\Documents and Settings\Administrator\桌面\PJ1_zym\Release\PJ1_zym.lib" /MACHINE:X86 Release\PJ1_zym.obj
+         正在生成代码
+         已完成代码的生成
+         PJ1_zym.vcxproj -> C:\Documents and Settings\Administrator\桌面\PJ1_zym\Release\PJ1_zym.exe
+       Manifest:
+         C:\Program Files\Microsoft SDKs\Windows\v7.0A\bin\mt.exe /nologo /verbose /outputresource:"C:\Documents and Settings\Administrator\桌面\PJ1_zym\Release\PJ1_zym.exe;#1" /manifest Release\PJ1_zym.exe.intermediate.manifest
+       FinalizeBuildStatus:
+         正在删除文件“Release\PJ1_zym.unsuccessfulbuild”。
+         正在对“Release\PJ1_zym.lastbuildstate”执行 Touch 任务。
+     1>已完成生成项目“C:\Documents and Settings\Administrator\桌面\PJ1_zym\PJ1_zym\PJ1_zym.vcxproj”(build 个目标)的操作。
+
+生成成功。
+
+已用时间 00:00:01.93
